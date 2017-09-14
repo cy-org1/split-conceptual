@@ -1,1 +1,1 @@
-This is for testing xrefmap @Microsoft.DocAsCode.SubCommands
+This is for testing xrefmap @Microsoft.SqlServer.Server
