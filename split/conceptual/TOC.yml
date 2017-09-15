@@ -1,3 +1,4 @@
+- universal_ref_toc: "/split-repo/ref/toc.json"
 - name: ConceptualIndex
   href: ../index.md
 - name: ForRef
