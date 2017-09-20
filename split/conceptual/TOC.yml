@@ -1,5 +1,5 @@
 - name: ConceptualIndex
-  href: ../index.md
+  href: ../conceptualindex.md
   universal_ref_toc: "/split-repo/ref/toc.json"
 - name: ForRef
   href: ../for_ref.md
