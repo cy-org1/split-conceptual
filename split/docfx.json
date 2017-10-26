@@ -1,6 +1,5 @@
 {
   "build": {
-    "xrefService": ["https://xrefppe.docs.microsoft.com/query/?uid={uid}&vendor=/cy-org1"],
     "content": [
       {
         "files": [
